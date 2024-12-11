@@ -4,7 +4,6 @@ const BoasVindas = (props) => {
   )
 }
 
-
 const App = () => {
   const alunos = [
     {
