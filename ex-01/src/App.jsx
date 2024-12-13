@@ -1,13 +1,11 @@
-const Calculo = () => {
- return (
-    <input type="text" />
- ) 
-}
+
 
 const App = () => {
+  let message = 'Olá, Mundo!'
   return (
     <>
-      <Calculo/>
+      <h1>{message}</h1>
+      <button {onClick></button>
     </>
   )
 }
