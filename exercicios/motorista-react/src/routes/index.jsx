@@ -6,7 +6,7 @@ const Patchs = () => {
     <>
       <BrowserRouter>
         <Routes>
-          <Route patch="/" element={<Home />} />
+          <Route path="/" element={<Home />} />
         </Routes>
       </BrowserRouter>
     </>
